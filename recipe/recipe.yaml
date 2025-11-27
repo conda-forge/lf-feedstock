@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/gokcehan/lf/archive/${{ version }}.tar.gz
-  sha256: 01531e7a78d8bfbe14739072e93446d003f0e4ce12032a26671fa326b73bc911
+  sha256: 9e5b8baf0af6f131c3f2254ab0454fb4e0dc54ae3e97e23de5153134889b924e
 
 build:
   number: 0
